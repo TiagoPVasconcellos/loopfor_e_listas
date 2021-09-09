@@ -1,5 +1,5 @@
 '''
-4) Escreva um programa que preencha uma lista com modelos de 05 (cinco) carros (exemplos: Gol, HB20, etc) e em seguida o consumo destes carros, isto é, quantos quilômetros cada um deles faz com 1 (um) litro de gasolina. Calcule e mostre:
+Escreva um programa que preencha uma lista com modelos de 05 (cinco) carros (exemplos: Gol, HB20, etc) e em seguida o consumo destes carros, isto é, quantos quilômetros cada um deles faz com 1 (um) litro de gasolina. Calcule e mostre:
 a) O modelo mais econômico; 
 b) Quantos litros de gasolina cada um dos carros cadastrados consome para percorrer uma distância de 1.000 quilômetros e quanto isto custará, considerando que a gasolina custe R$ 5,499 o litro.
 Abaixo uma tela de exemplo. A disposição das informações deve ser o mais próximo possível ao exemplo. Os dados são fictícios e podem mudar a cada execução do programa. 
